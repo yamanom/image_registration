@@ -1,0 +1,5 @@
+jupyter
+jupyterlab
+jupyter_contrib_nbextensions
+opencv_python == 3.4.2.17
+opencv-contrib-python == 3.4.2.17
